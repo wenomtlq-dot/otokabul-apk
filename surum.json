@@ -1,5 +1,5 @@
 {
-  "kod": 10,
-  "ad": "10",
-  "not": "Onaysız kullanıcı önizleme modunda çalışır (sadece bilgi gösterir). Onay değişiklikleri 10 saniyede yansır."
+  "kod": 11,
+  "ad": "11",
+  "not": "Güncellemeler artık uygulamanın içinden, soru sormadan kurulur (ilk seferde bir kez onay ister). Onay beklerken 2 saniyede bir kontrol."
 }
