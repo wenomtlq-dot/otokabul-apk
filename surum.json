@@ -1,5 +1,5 @@
 {
-  "kod": 7,
-  "ad": "7",
-  "not": "Yönetici hesabı her zaman açık."
+  "kod": 8,
+  "ad": "8",
+  "not": "Yönetici hesabı her zaman açık; güncelleme kontrolü her açılışta."
 }
