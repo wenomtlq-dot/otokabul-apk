@@ -1,5 +1,5 @@
 {
-  "kod": 11,
-  "ad": "11",
-  "not": "Güncellemeler artık uygulamanın içinden, soru sormadan kurulur (ilk seferde bir kez onay ister). Onay beklerken 2 saniyede bir kontrol."
+  "kod": 12,
+  "ad": "1.0",
+  "not": "Yeni: Kamera sekmesi (arka planda video kaydı, ücretsiz). Onaylar artık anında gelir. Üst alan sabit, Kabul/Kamera sekmeleri. Not: Bu güncellemeden sonra bir kez yeniden giriş yapman gerekir."
 }
