@@ -1,5 +1,5 @@
 {
-  "kod": 8,
-  "ad": "8",
-  "not": "Yönetici hesabı her zaman açık; güncelleme kontrolü her açılışta."
+  "kod": 9,
+  "ad": "9",
+  "not": "Kullanıcı listesinde +/− seçenekler; onay gelince karşı taraf kendiliğinden yenilenir."
 }
