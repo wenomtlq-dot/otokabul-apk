@@ -1,5 +1,5 @@
 {
-  "kod": 18,
-  "ad": "1.6",
-  "not": "Güncellemeler artık tamamen otomatik. Yüzen düğme ilk açılışta İkisi birden."
+  "kod": 20,
+  "ad": "1.7",
+  "not": "Otomatik başlatma: Tıklayıcı açılınca Yandex Pro ve Uber de çevrimiçi, kapanınca çevrimdışı olur. Tıklayıcı sekmesinden açılır."
 }
