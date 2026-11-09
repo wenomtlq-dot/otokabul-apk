@@ -1,5 +1,5 @@
 {
-  "kod": 15,
-  "ad": "1.3",
-  "not": "Sol üstte ☰ Hesap menüsü (şifre değiştir, çıkış). Yüzen düğme ve Sonlandır üstte. Onaysız hesaplara kilit ekranı + WhatsApp ve Önizleme sekmesi. Ön kamera adları düzeltildi."
+  "kod": 16,
+  "ad": "1.4",
+  "not": "Tıklayıcı sekmesi, çağrı yazıları. Yüzen düğmenin 3 çeşidi (Tıklayıcı / Kamera / İkisi birden). Beni hatırla. Giriş yapmadan hiçbir şey açılmaz. Yöneticiye Üyeler sayfası."
 }
