@@ -1,5 +1,5 @@
 {
-  "kod": 3,
-  "ad": "0.3",
-  "not": "Oto Kabul hesabınla giriş, yöneticiye Üyeler sekmesi, aramada süslü harfli grup adları da bulunur."
+  "kod": 4,
+  "ad": "0.4",
+  "not": "Birden fazla alıcı listesi, Saate kur artık ayrı (kendi mesajı ve listesi), grup eklerken Hepsini seç, zamanlayıcıdan sonra üçlü sayım yeniden başlar."
 }
