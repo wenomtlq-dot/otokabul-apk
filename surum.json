@@ -1,5 +1,5 @@
 {
-  "kod": 20,
-  "ad": "1.7",
-  "not": "Otomatik başlatma: Tıklayıcı açılınca Yandex Pro ve Uber de çevrimiçi, kapanınca çevrimdışı olur. Tıklayıcı sekmesinden açılır."
+  "kod": 22,
+  "ad": "1.8",
+  "not": "Otomatik başlatma: yanlış \"olamadı\" uyarısı düzeltildi, Uber süre ekranında TAMAM'a kendisi basar, hız seçimi eklendi. Kamera ayarları bir kereliğine ilk değerlere döndü."
 }
