@@ -1,5 +1,5 @@
 {
-  "kod": 6,
-  "ad": "0.6",
-  "not": "Güncellemeler artık uygulamayı açar açmaz gelir. Cevaplar sekmesi, gönderilen işler, yeni alıcı satırı."
+  "kod": 7,
+  "ad": "0.7",
+  "not": "Alıcılar sekmesi artık kaydırırken takılmıyor: yalnızca ekranda görünen satırlar hazırlanır."
 }
