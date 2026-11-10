@@ -1,5 +1,5 @@
 {
-  "kod": 2,
-  "ad": "0.2",
-  "not": "Adı gelmeyen gruplar tamamlanır, bekleme 1 saniyeye iner, kaçar kaçar gönderme, alıcıya ek bekleme, 5 mesaja kadar, kare kodla bağlanma, otomatik güncelleme."
+  "kod": 3,
+  "ad": "0.3",
+  "not": "Oto Kabul hesabınla giriş, yöneticiye Üyeler sekmesi, aramada süslü harfli grup adları da bulunur."
 }
