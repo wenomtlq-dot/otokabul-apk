@@ -1,5 +1,5 @@
 {
-  "kod": 5,
-  "ad": "0.5",
-  "not": "Cevaplar sekmesi, gönderilen işler (düzenle, herkesten sil, tekrar gönder, alıntıla), yeni alıcı satırı, sıra numarasıyla taşıma."
+  "kod": 6,
+  "ad": "0.6",
+  "not": "Güncellemeler artık uygulamayı açar açmaz gelir. Cevaplar sekmesi, gönderilen işler, yeni alıcı satırı."
 }
