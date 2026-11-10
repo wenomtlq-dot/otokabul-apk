@@ -1,5 +1,5 @@
 {
-  "kod": 4,
-  "ad": "0.4",
-  "not": "Birden fazla alıcı listesi, Saate kur artık ayrı (kendi mesajı ve listesi), grup eklerken Hepsini seç, zamanlayıcıdan sonra üçlü sayım yeniden başlar."
+  "kod": 5,
+  "ad": "0.5",
+  "not": "Cevaplar sekmesi, gönderilen işler (düzenle, herkesten sil, tekrar gönder, alıntıla), yeni alıcı satırı, sıra numarasıyla taşıma."
 }
