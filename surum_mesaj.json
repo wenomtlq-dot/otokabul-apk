@@ -1,5 +1,5 @@
 {
-  "kod": 9,
-  "ad": "0.9",
-  "not": "Grup ekleme penceresinde Gizlenenler ve YENİ gruplar, Cevaplar sekmesi yeni sıra, Mesaj bekleniyor düzeltmesi, kaçar kaçar en fazla 5, üyelerde başlangıç/bitiş ve elle gün, şifre gösterme gözü."
+  "kod": 10,
+  "ad": "1.0",
+  "not": "Yönetici üyelerin Oto Mesaj'dan gönderdiklerini ve son yapılanlarını görebilir."
 }
