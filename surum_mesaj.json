@@ -1,5 +1,5 @@
 {
-  "kod": 10,
-  "ad": "1.0",
-  "not": "Yönetici üyelerin Oto Mesaj'dan gönderdiklerini ve son yapılanlarını görebilir."
+  "kod": 11,
+  "ad": "1.1",
+  "not": "Üyeler artık uygulamaya özel; yeni kayıtta ad soyad sorulur. Yöneticinin mesajı ana ekranda açılır (Okundu'ya basınca kapanır). Hesap düğmesinde ad soyad görünür."
 }

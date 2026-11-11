@@ -1,5 +1,5 @@
 {
-  "kod": 22,
-  "ad": "1.8",
-  "not": "Otomatik başlatma: yanlış \"olamadı\" uyarısı düzeltildi, Uber süre ekranında TAMAM'a kendisi basar, hız seçimi eklendi. Kamera ayarları bir kereliğine ilk değerlere döndü."
+  "kod": 23,
+  "ad": "1.9",
+  "not": "Üyeler artık uygulamaya özel; yeni kayıtta ad soyad sorulur. Yöneticiyle uygulama içinden mesajlaşma, yöneticinin mesajı ana ekranda açılır (Okundu'ya basınca kapanır). Hesap düğmesinde ad soyad görünür."
 }
