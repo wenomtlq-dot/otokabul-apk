@@ -1,5 +1,6 @@
 {
-  "kod": 23,
-  "ad": "1.9",
-  "not": "Üyeler artık uygulamaya özel; yeni kayıtta ad soyad sorulur. Yöneticiyle uygulama içinden mesajlaşma, yöneticinin mesajı ana ekranda açılır (Okundu'ya basınca kapanır). Hesap düğmesinde ad soyad görünür."
+  "kod": 24,
+  "ad": "2.0",
+  "enAz": 24,
+  "not": "Zorunlu güncelleme: eski sürümler artık güncellenmeden kullanılamaz."
 }

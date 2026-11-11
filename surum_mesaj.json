@@ -1,5 +1,6 @@
 {
-  "kod": 12,
-  "ad": "1.2",
-  "not": "Hazır cevaplarda Otomatik seçince: \"Her gelen mesaja\" ya da \"Şu mesajlara\" (sadece v, ver, ., +, alayım gibi isteme işareti yazanlara)."
+  "kod": 13,
+  "ad": "1.3",
+  "enAz": 13,
+  "not": "Yeni Bot sekmesi (grup botu), Şimdi gönder sonrası mesaj kutusu boşalır, isteme işaretleri silinebilir, zorunlu güncelleme."
 }
