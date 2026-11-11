@@ -1,5 +1,5 @@
 {
-  "kod": 11,
-  "ad": "1.1",
-  "not": "Üyeler artık uygulamaya özel; yeni kayıtta ad soyad sorulur. Yöneticinin mesajı ana ekranda açılır (Okundu'ya basınca kapanır). Hesap düğmesinde ad soyad görünür."
+  "kod": 12,
+  "ad": "1.2",
+  "not": "Hazır cevaplarda Otomatik seçince: \"Her gelen mesaja\" ya da \"Şu mesajlara\" (sadece v, ver, ., +, alayım gibi isteme işareti yazanlara)."
 }
