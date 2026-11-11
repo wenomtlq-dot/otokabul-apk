@@ -1,6 +1,6 @@
 {
-  "kod": 24,
-  "ad": "2.0",
-  "enAz": 24,
-  "not": "Zorunlu güncelleme: eski sürümler artık güncellenmeden kullanılamaz."
+  "kod": 25,
+  "ad": "2.1",
+  "enAz": 25,
+  "not": "Yöneticiye yaz penceresi: klavye açılınca yazı kutusu ve Gönder görünür, Kapat üstte."
 }
