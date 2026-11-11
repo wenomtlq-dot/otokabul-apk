@@ -1,5 +1,5 @@
 {
-  "kod": 8,
-  "ad": "0.8",
-  "not": "Gruplar geldikçe görünür, adsız gruplar düzeldi, yöneticiyle mesajlaşma ve toplu mesaj, Cevaplar sekmesinde hazır cevaplar."
+  "kod": 9,
+  "ad": "0.9",
+  "not": "Grup ekleme penceresinde Gizlenenler ve YENİ gruplar, Cevaplar sekmesi yeni sıra, Mesaj bekleniyor düzeltmesi, kaçar kaçar en fazla 5, üyelerde başlangıç/bitiş ve elle gün, şifre gösterme gözü."
 }
