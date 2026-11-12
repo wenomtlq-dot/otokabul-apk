@@ -1,6 +1,6 @@
 {
-  "kod": 25,
-  "ad": "2.1",
-  "enAz": 25,
-  "not": "Yöneticiye yaz penceresi: klavye açılınca yazı kutusu ve Gönder görünür, Kapat üstte."
+  "kod": 26,
+  "ad": "2.2",
+  "enAz": 26,
+  "not": "Kapanınca BiTaksi MEŞGUL (isteğe bağlı); yolcu varken Uber/Yandex/BiTaksi'ye dokunmaz; Yandex'te Para sekmesine basma düzeltildi; ek kazanç fiyatta; kapalıyken daha az pil."
 }
