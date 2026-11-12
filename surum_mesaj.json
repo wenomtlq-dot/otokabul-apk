@@ -1,6 +1,6 @@
 {
-  "kod": 14,
-  "ad": "1.4",
-  "enAz": 14,
-  "not": "Ortak grup botu (grup aç, kişi ekle, Alıcılar listesi), isteme işareti sadece kelimenin kendisi, biri isteyince gönderim dursun, yöneticiye yaz penceresi düzeldi, kilit ekranından uygulama içi mesaj."
+  "kod": 15,
+  "ad": "1.5",
+  "enAz": 15,
+  "not": "Botların ve işletme hesaplarının farklı türde attığı cevaplar da yakalanır; saniyesinde gelen cevaplar kaçmaz."
 }
