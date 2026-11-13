@@ -1,6 +1,6 @@
 {
-  "kod": 17,
-  "ad": "1.7",
-  "enAz": 17,
-  "not": "Çok daha hızlı gönderim: grup anahtarı her mesajda herkese gitmiyor, grup üye listeleri telefonda saklanıyor, 5'li gruplar gerçekten aynı anda gidiyor. Çıkarıldığın gruba takılmıyor; Durdur hemen durduruyor. Son yapılanlarda \"Daha fazla gör\". Liste seçimi Mesaj başlığının yanında."
+  "kod": 18,
+  "ad": "1.8",
+  "enAz": 18,
+  "not": "Uygulama açıldıktan sonraki ilk tur da hızlandı. Beklemeler her seferinde biraz değişir; WhatsApp \"çok hızlı\" uyarısı verirse gönderim kendiliğinden durur. Zorunlu güncelleme artık süren gönderimi kesmez. Bağlantı sekmesinin altında ve ☰ menüde \"Diğer uygulamalarımız\"."
 }

@@ -1,6 +1,6 @@
 {
-  "kod": 29,
-  "ad": "2.5",
-  "enAz": 29,
-  "not": "Otomatik başlatma: BiTaksi'de POS / Kampanya gibi alt sekmelere yanlışlıkla basma düzeltildi. Başlatırken sıra BiTaksi, Uber, Yandex; Ekstra hızda Yandex ve Uber önden açılır."
+  "kod": 30,
+  "ad": "2.6",
+  "enAz": 30,
+  "not": "Kamera sekmesinin altında ve ☰ menüde \"Diğer uygulamalarımız\": öteki uygulamalarımızı buradan indirip açabilirsin."
 }
