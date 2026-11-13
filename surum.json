@@ -1,6 +1,6 @@
 {
-  "kod": 27,
-  "ad": "2.3",
-  "enAz": 27,
-  "not": "BiTaksi: başlatınca MÜSAİT, durdurunca MEŞGUL; başlatırken Yandex önce açılıp beklemeden Uber ve BiTaksi'ye geçilir, Yandex en son."
+  "kod": 28,
+  "ad": "2.4",
+  "enAz": 28,
+  "not": "Otomatik başlatma daha hızlı: durumu gördüğü an basar; BiTaksi MÜSAİT / MEŞGUL anında."
 }
