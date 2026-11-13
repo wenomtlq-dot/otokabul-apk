@@ -1,6 +1,6 @@
 {
-  "kod": 15,
-  "ad": "1.5",
-  "enAz": 15,
-  "not": "Botların ve işletme hesaplarının farklı türde attığı cevaplar da yakalanır; saniyesinde gelen cevaplar kaçmaz."
+  "kod": 16,
+  "ad": "1.6",
+  "enAz": 16,
+  "not": "Kaldığı yerden devam; durduktan sonra gelen cevaplar ayarı; listeleri sürükle / sil / iki dokunuşla adını değiştir; arama kutusu tikten sonra temizlenir; grup botu: biri gönderiye yazınca gönderim durur."
 }
