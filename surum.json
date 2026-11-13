@@ -1,6 +1,6 @@
 {
-  "kod": 26,
-  "ad": "2.2",
-  "enAz": 26,
-  "not": "Kapanınca BiTaksi MEŞGUL (isteğe bağlı); yolcu varken Uber/Yandex/BiTaksi'ye dokunmaz; Yandex'te Para sekmesine basma düzeltildi; ek kazanç fiyatta; kapalıyken daha az pil."
+  "kod": 27,
+  "ad": "2.3",
+  "enAz": 27,
+  "not": "BiTaksi: başlatınca MÜSAİT, durdurunca MEŞGUL; başlatırken Yandex önce açılıp beklemeden Uber ve BiTaksi'ye geçilir, Yandex en son."
 }
