@@ -1,6 +1,6 @@
 {
-  "kod": 16,
-  "ad": "1.6",
-  "enAz": 16,
-  "not": "Kaldığı yerden devam; durduktan sonra gelen cevaplar ayarı; listeleri sürükle / sil / iki dokunuşla adını değiştir; arama kutusu tikten sonra temizlenir; grup botu: biri gönderiye yazınca gönderim durur."
+  "kod": 17,
+  "ad": "1.7",
+  "enAz": 17,
+  "not": "Çok daha hızlı gönderim: grup anahtarı her mesajda herkese gitmiyor, grup üye listeleri telefonda saklanıyor, 5'li gruplar gerçekten aynı anda gidiyor. Çıkarıldığın gruba takılmıyor; Durdur hemen durduruyor. Son yapılanlarda \"Daha fazla gör\". Liste seçimi Mesaj başlığının yanında."
 }
