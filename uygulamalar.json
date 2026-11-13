@@ -1,0 +1,38 @@
+[
+  {
+    "ad": "Oto Mesaj",
+    "paket": "com.otomesaj",
+    "emoji": "💬",
+    "renk": "#128C4A",
+    "apk": "https://raw.githubusercontent.com/wenomtlq-dot/otokabul-apk/main/OtoMesaj.apk",
+    "surum": "surum_mesaj.json",
+    "aciklama": "İş mesajını WhatsApp gruplarına ve kişilere senin yerine gönderir. Gelen cevapları tek yerde toplar, istersen otomatik cevap verir."
+  },
+  {
+    "ad": "Oto Kabul",
+    "paket": "com.otokabul",
+    "emoji": "✅",
+    "renk": "#1565C0",
+    "apk": "https://raw.githubusercontent.com/wenomtlq-dot/otokabul-apk/main/OtoKabul.apk",
+    "surum": "surum.json",
+    "aciklama": "BiTaksi çağrısını sen dokunmadan kabul eder, yolculuk bilgisini köşede gösterir. BiTaksi, Uber ve Yandex'i birlikte açıp kapatır; yolculuk kamerası da var."
+  },
+  {
+    "ad": "TAG Hesap",
+    "paket": "com.taghesap",
+    "emoji": "🧮",
+    "renk": "#EF6C00",
+    "apk": "https://raw.githubusercontent.com/wenomtlq-dot/otokabul-apk/main/TagHesap.apk",
+    "surum": "surum_hesap.json",
+    "aciklama": "TAG'de gelen iş teklifinin dakika ve kilometre başına kaç TL ettiğini hesaplar, ekranın sağ üstünde gösterir."
+  },
+  {
+    "ad": "Foto Temizlik",
+    "paket": "com.fototemizlik",
+    "emoji": "🧹",
+    "renk": "#1565C0",
+    "apk": "https://raw.githubusercontent.com/wenomtlq-dot/otokabul-apk/main/FotoTemizlik.apk",
+    "surum": "surum_foto.json",
+    "aciklama": "Yeni fotoğraf, ekran görüntüsü ya da WhatsApp'tan gelen resim için \"Kalsın mı, silinsin mi?\" diye sorar. Cevap vermediklerini bir süre sonra kendisi temizler, galerin dolmaz."
+  }
+]

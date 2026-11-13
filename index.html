@@ -4,111 +4,93 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Uygulamalarımız</title>
-<meta name="description" content="Oto Mesaj ve Oto Kabul: taksiciler için telefon uygulamaları. Tek yerden indir.">
+<meta name="description" content="Oto Mesaj, Oto Kabul, TAG Hesap ve Foto Temizlik: tek yerden indir.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 108 108'%3E%3Crect width='108' height='108' rx='24' fill='%23128C4A'/%3E%3Cpath fill='%23fff' d='M34,34h40a6,6 0 0 1 6,6v24a6,6 0 0 1-6,6h-22l-12,10v-10h-6a6,6 0 0 1-6-6v-24a6,6 0 0 1 6-6z'/%3E%3C/svg%3E">
 <style>
-  :root {
-    --zemin: #f2f4f7;
-    --kart: #ffffff;
-    --yazi: #16202c;
-    --soluk: #5d6b7a;
-    --cizgi: #e2e7ee;
-    --yesil: #128c4a;
-    --mavi: #1565c0;
-  }
+  :root { --zemin:#f2f4f7; --kart:#ffffff; --yazi:#16202c; --soluk:#5d6b7a; --cizgi:#e2e7ee; }
   @media (prefers-color-scheme: dark) {
-    :root {
-      --zemin: #0e141b;
-      --kart: #17202a;
-      --yazi: #eef2f6;
-      --soluk: #9aa8b6;
-      --cizgi: #263241;
-    }
+    :root { --zemin:#0e141b; --kart:#17202a; --yazi:#eef2f6; --soluk:#9aa8b6; --cizgi:#263241; }
   }
   * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    background: var(--zemin);
-    color: var(--yazi);
-    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  }
-  main { max-width: 560px; margin: 0 auto; padding: 28px 16px 40px; }
-  h1 { font-size: 28px; line-height: 1.2; margin: 0 0 6px; }
-  .alt { color: var(--soluk); margin: 0 0 22px; }
-  .kart {
-    background: var(--kart);
-    border: 1px solid var(--cizgi);
-    border-radius: 18px;
-    padding: 18px;
-    margin-bottom: 14px;
-  }
-  .ust { display: flex; align-items: center; gap: 14px; }
-  .ikon { width: 60px; height: 60px; flex: none; border-radius: 16px; display: block; }
-  .ad { font-size: 20px; font-weight: 700; margin: 0; }
-  .surum { color: var(--soluk); font-size: 14px; }
-  .kart p { margin: 12px 0 14px; }
-  .indir {
-    display: flex; align-items: center; justify-content: center; gap: 8px;
-    width: 100%; padding: 13px 16px; border-radius: 12px;
-    color: #fff; font-weight: 700; font-size: 17px; text-decoration: none;
-  }
-  .indir.yesil { background: var(--yesil); }
-  .indir.mavi { background: var(--mavi); }
-  .indir:active { opacity: .85; }
-  h2 { font-size: 18px; margin: 26px 0 10px; }
-  ol { margin: 0; padding-left: 22px; }
-  ol li { margin-bottom: 6px; }
-  .not { color: var(--soluk); font-size: 14px; margin-top: 10px; }
-  .wp {
-    display: inline-flex; align-items: center; gap: 8px; margin-top: 6px;
-    padding: 11px 16px; border-radius: 12px; border: 1px solid var(--cizgi);
-    background: var(--kart); color: var(--yazi); text-decoration: none; font-weight: 600;
-  }
-  footer { color: var(--soluk); font-size: 13px; margin-top: 28px; }
+  body { margin:0; background:var(--zemin); color:var(--yazi); font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  main { max-width:560px; margin:0 auto; padding:28px 16px 40px; }
+  h1 { font-size:28px; line-height:1.2; margin:0 0 6px; }
+  .alt { color:var(--soluk); margin:0 0 22px; }
+  .kart { background:var(--kart); border:1px solid var(--cizgi); border-radius:18px; padding:18px; margin-bottom:14px; }
+  .ust { display:flex; align-items:center; gap:14px; }
+  .ikon { width:60px; height:60px; flex:none; border-radius:16px; display:block; overflow:hidden; }
+  .ikon.emoji { display:flex; align-items:center; justify-content:center; font-size:32px; }
+  .ad { font-size:20px; font-weight:700; margin:0; }
+  .surum { color:var(--soluk); font-size:14px; }
+  .kart p { margin:12px 0 14px; }
+  .indir { display:flex; align-items:center; justify-content:center; width:100%; padding:13px 16px; border-radius:12px; color:#fff; font-weight:700; font-size:17px; text-decoration:none; }
+  .indir:active { opacity:.85; }
+  h2 { font-size:18px; margin:26px 0 10px; }
+  ol { margin:0; padding-left:22px; }
+  ol li { margin-bottom:6px; }
+  .not { color:var(--soluk); font-size:14px; margin-top:10px; }
+  .wp { display:inline-flex; align-items:center; gap:8px; margin-top:6px; padding:11px 16px; border-radius:12px; border:1px solid var(--cizgi); background:var(--kart); color:var(--yazi); text-decoration:none; font-weight:600; }
+  footer { color:var(--soluk); font-size:13px; margin-top:28px; }
 </style>
 </head>
 <body>
 <main>
   <h1>Uygulamalarımız</h1>
-  <p class="alt">Taksiciler için telefon uygulamaları. Hepsi buradan indirilir, yeni sürüm çıkınca uygulama kendisi haber verir.</p>
+  <p class="alt">Taksiciler için telefon uygulamaları. Hepsi buradan indirilir; yeni sürüm çıkınca her uygulama kendini günceller.</p>
 
   <section class="kart">
     <div class="ust">
-      <svg class="ikon" viewBox="0 0 108 108" aria-hidden="true">
-        <rect width="108" height="108" fill="#128C4A"/>
-        <path fill="#fff" d="M34,34h40a6,6 0 0 1 6,6v24a6,6 0 0 1-6,6h-22l-12,10v-10h-6a6,6 0 0 1-6-6v-24a6,6 0 0 1 6-6z"/>
-        <path fill="#128C4A" d="M44,45l22,7l-22,7l3,-7z"/>
-      </svg>
+      <svg class="ikon" viewBox="0 0 108 108" aria-hidden="true"><rect width="108" height="108" fill="#128C4A"/><path fill="#fff" d="M34,34h40a6,6 0 0 1 6,6v24a6,6 0 0 1-6,6h-22l-12,10v-10h-6a6,6 0 0 1-6-6v-24a6,6 0 0 1 6-6z"/><path fill="#128C4A" d="M44,45l22,7l-22,7l3,-7z"/></svg>
       <div>
         <h3 class="ad">Oto Mesaj</h3>
-        <div class="surum" id="surum-mesaj">Android</div>
+        <div class="surum" id="s-com-otomesaj" data-dosya="surum_mesaj.json">Android</div>
       </div>
     </div>
-    <p>İş mesajını WhatsApp gruplarına ve kişilere senin yerine gönderir. Gelen cevapları tek yerde toplar, istersen otomatik cevap verir. Kayıt olduktan sonra yönetici onayıyla açılır.</p>
-    <a class="indir yesil" href="https://raw.githubusercontent.com/wenomtlq-dot/otokabul-apk/main/OtoMesaj.apk">⬇ Oto Mesaj'ı indir</a>
+    <p>İş mesajını WhatsApp gruplarına ve kişilere senin yerine gönderir. Gelen cevapları tek yerde toplar, istersen otomatik cevap verir.</p>
+    <a class="indir" style="background:#128C4A" href="https://raw.githubusercontent.com/wenomtlq-dot/otokabul-apk/main/OtoMesaj.apk">⬇ Oto Mesaj indir</a>
   </section>
 
   <section class="kart">
     <div class="ust">
-      <svg class="ikon" viewBox="0 0 108 108" aria-hidden="true">
-        <rect width="108" height="108" fill="#1565C0"/>
-        <circle cx="54" cy="54" r="32" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="3"/>
-        <path fill="#fff" d="M30,56l8,-8l12,12l20,-22l8,8l-28,30z"/>
-      </svg>
+      <svg class="ikon" viewBox="0 0 108 108" aria-hidden="true"><rect width="108" height="108" fill="#1565C0"/><circle cx="54" cy="54" r="32" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="3"/><path fill="#fff" d="M30,56l8,-8l12,12l20,-22l8,8l-28,30z"/></svg>
       <div>
         <h3 class="ad">Oto Kabul</h3>
-        <div class="surum" id="surum-kabul">Android</div>
+        <div class="surum" id="s-com-otokabul" data-dosya="surum.json">Android</div>
       </div>
     </div>
-    <p>BiTaksi çağrısını sen dokunmadan kabul eder, yolculuk bilgisini ekranın köşesinde gösterir. Başlat ve Durdur ile BiTaksi, Uber ve Yandex Pro'yu birlikte açıp kapatır. Yolculuk kamerası da içinde.</p>
-    <a class="indir mavi" href="https://raw.githubusercontent.com/wenomtlq-dot/otokabul-apk/main/OtoKabul.apk">⬇ Oto Kabul'u indir</a>
+    <p>BiTaksi çağrısını sen dokunmadan kabul eder, yolculuk bilgisini köşede gösterir. BiTaksi, Uber ve Yandex&#x27;i birlikte açıp kapatır; yolculuk kamerası da var.</p>
+    <a class="indir" style="background:#1565C0" href="https://raw.githubusercontent.com/wenomtlq-dot/otokabul-apk/main/OtoKabul.apk">⬇ Oto Kabul indir</a>
+  </section>
+
+  <section class="kart">
+    <div class="ust">
+      <div class="ikon emoji" style="background:#EF6C00">🧮</div>
+      <div>
+        <h3 class="ad">TAG Hesap</h3>
+        <div class="surum" id="s-com-taghesap" data-dosya="surum_hesap.json">Android</div>
+      </div>
+    </div>
+    <p>TAG&#x27;de gelen iş teklifinin dakika ve kilometre başına kaç TL ettiğini hesaplar, ekranın sağ üstünde gösterir.</p>
+    <a class="indir" style="background:#EF6C00" href="https://raw.githubusercontent.com/wenomtlq-dot/otokabul-apk/main/TagHesap.apk">⬇ TAG Hesap indir</a>
+  </section>
+
+  <section class="kart">
+    <div class="ust">
+      <svg class="ikon" viewBox="0 0 108 108" aria-hidden="true"><rect width="108" height="108" fill="#1565C0"/><path fill="#fff" d="M34,34h40a4,4 0 0 1 4,4v32a4,4 0 0 1-4,4h-40a4,4 0 0 1-4-4v-32a4,4 0 0 1 4-4z"/><path fill="#1565C0" d="M36,68l12,-14l8,9l6,-6l10,11z"/><circle cx="64" cy="44" r="4" fill="#FFC107"/><circle cx="76" cy="72" r="10" fill="#E53935"/><path stroke="#fff" stroke-width="2.5" stroke-linecap="round" d="M72,68l8,8M80,68l-8,8"/></svg>
+      <div>
+        <h3 class="ad">Foto Temizlik</h3>
+        <div class="surum" id="s-com-fototemizlik" data-dosya="surum_foto.json">Android</div>
+      </div>
+    </div>
+    <p>Yeni fotoğraf, ekran görüntüsü ya da WhatsApp&#x27;tan gelen resim için &quot;Kalsın mı, silinsin mi?&quot; diye sorar. Cevap vermediklerini bir süre sonra kendisi temizler, galerin dolmaz.</p>
+    <a class="indir" style="background:#1565C0" href="https://raw.githubusercontent.com/wenomtlq-dot/otokabul-apk/main/FotoTemizlik.apk">⬇ Foto Temizlik indir</a>
   </section>
 
   <h2>Nasıl kurulur</h2>
   <ol>
     <li>İndir düğmesine bas, inince dosyayı aç.</li>
     <li>"Yükle"ye bas. Telefon izin isterse "Bu kaynaktan izin ver"i aç.</li>
-    <li>Uygulamayı açıp kayıt ol, onay için yöneticiye yaz.</li>
+    <li>Oto Mesaj ve Oto Kabul'de kayıt ol, onay için yöneticiye yaz.</li>
   </ol>
   <p class="not">Samsung'da yükleme engellenirse: Ayarlar → Güvenlik ve gizlilik → Otomatik Engelleyici'yi kapat, kurduktan sonra tekrar açabilirsin.</p>
 
@@ -119,14 +101,14 @@
 </main>
 <script>
   // surum bilgisi (sayfayla ayni yerde duran dosyalardan)
-  function surum(dosya, id) {
-    fetch(dosya, { cache: "no-store" })
+  document.querySelectorAll(".surum[data-dosya]").forEach(function (el) {
+    var d = el.getAttribute("data-dosya");
+    if (!d) return;
+    fetch(d, { cache: "no-store" })
       .then(function (r) { return r.ok ? r.json() : null; })
-      .then(function (j) { if (j && j.ad) document.getElementById(id).textContent = "Android · sürüm " + j.ad; })
+      .then(function (j) { if (j && j.ad) el.textContent = "Android · sürüm " + j.ad; })
       .catch(function () {});
-  }
-  surum("surum_mesaj.json", "surum-mesaj");
-  surum("surum.json", "surum-kabul");
+  });
 </script>
 </body>
 </html>
