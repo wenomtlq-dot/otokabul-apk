@@ -1,6 +1,6 @@
 {
-  "kod": 28,
-  "ad": "2.4",
-  "enAz": 28,
-  "not": "Otomatik başlatma daha hızlı: durumu gördüğü an basar; BiTaksi MÜSAİT / MEŞGUL anında."
+  "kod": 29,
+  "ad": "2.5",
+  "enAz": 29,
+  "not": "Otomatik başlatma: BiTaksi'de POS / Kampanya gibi alt sekmelere yanlışlıkla basma düzeltildi. Başlatırken sıra BiTaksi, Uber, Yandex; Ekstra hızda Yandex ve Uber önden açılır."
 }
