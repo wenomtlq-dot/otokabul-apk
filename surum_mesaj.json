@@ -1,6 +1,6 @@
 {
-  "kod": 21,
-  "ad": "2.0",
-  "enAz": 21,
-  "not": "Ayarların ve WhatsApp bağlantın artık hesabına bağlı. \"Çıkış yap\" deyince hesabına kaydedilir; başka telefonda aynı kullanıcı adı ve şifreyle giriş yapınca hepsi gelir, WhatsApp'ı yeniden bağlamak gerekmez. Bir hesap aynı anda tek telefonda açık olur: başka telefonda girmek için önce \"Çıkış yap\"a bas."
+  "kod": 22,
+  "ad": "2.1",
+  "enAz": 22,
+  "not": "Giriş ve çıkış artık ekranın ortasında açılan pencerelerle yapılıyor: dolan çubuk, yüzde ve kalan süre görünür; bitene kadar beklersin. \"Bu hesap başka bir telefonda açık\" uyarısı ve \"Her şey bu telefona geldi\" bildirimi de ortada açılır. Çıkış yaptıktan sonra hesabın bazen açık görünmesine yol açan hata düzeltildi."
 }
