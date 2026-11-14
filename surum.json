@@ -1,6 +1,6 @@
 {
-  "kod": 31,
-  "ad": "2.7",
-  "enAz": 31,
-  "not": "Yandex'te yolculuk varken (yolcuya ya da varışa giderken) Başlat / Durdur artık Yandex'te takılmaz: yolculuk ekranına dokunmadan diğer uygulamalara geçer."
+  "kod": 32,
+  "ad": "2.8",
+  "enAz": 32,
+  "not": "\"Diğer uygulamalarımız\" ekranında, telefonda kurulu ama eski kalmış uygulamanın düğmesinde artık \"Güncelle\" yazar."
 }

@@ -1,6 +1,6 @@
 {
-  "kod": 19,
-  "ad": "1.9",
-  "enAz": 19,
-  "not": "Bazı grup botları işine cevap verirken mesajını alıntılamıyor; seni gizlice etiketliyor ya da numaranı yazıyor. Artık bu cevaplar da Cevaplar'da görünür (\"📢 senden bahsetti\"). Bunlara otomatik cevap gitmez, istersen karttan gönderirsin."
+  "kod": 21,
+  "ad": "2.0",
+  "enAz": 21,
+  "not": "Ayarların ve WhatsApp bağlantın artık hesabına bağlı. \"Çıkış yap\" deyince hesabına kaydedilir; başka telefonda aynı kullanıcı adı ve şifreyle giriş yapınca hepsi gelir, WhatsApp'ı yeniden bağlamak gerekmez. Bir hesap aynı anda tek telefonda açık olur: başka telefonda girmek için önce \"Çıkış yap\"a bas."
 }
