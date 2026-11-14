@@ -1,6 +1,6 @@
 {
-  "kod": 30,
-  "ad": "2.6",
-  "enAz": 30,
-  "not": "Kamera sekmesinin altında ve ☰ menüde \"Diğer uygulamalarımız\": öteki uygulamalarımızı buradan indirip açabilirsin."
+  "kod": 31,
+  "ad": "2.7",
+  "enAz": 31,
+  "not": "Yandex'te yolculuk varken (yolcuya ya da varışa giderken) Başlat / Durdur artık Yandex'te takılmaz: yolculuk ekranına dokunmadan diğer uygulamalara geçer."
 }

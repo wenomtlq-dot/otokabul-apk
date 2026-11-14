@@ -1,6 +1,6 @@
 {
-  "kod": 10,
-  "ad": "10",
-  "enAz": 10,
-  "not": "Sağ üstteki kutu köşesindeki − ile küçültülür, + ile geri açılır (harita görünsün diye)."
+  "kod": 11,
+  "ad": "11",
+  "enAz": 11,
+  "not": "Kutu artık ön kameranın altından başlar ve sağ kenardan boşluk bırakır: yazılar ve − düğmesi rahat görünür."
 }
