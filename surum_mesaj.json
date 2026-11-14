@@ -1,6 +1,6 @@
 {
-  "kod": 22,
-  "ad": "2.1",
-  "enAz": 22,
-  "not": "Giriş ve çıkış artık ekranın ortasında açılan pencerelerle yapılıyor: dolan çubuk, yüzde ve kalan süre görünür; bitene kadar beklersin. \"Bu hesap başka bir telefonda açık\" uyarısı ve \"Her şey bu telefona geldi\" bildirimi de ortada açılır. Çıkış yaptıktan sonra hesabın bazen açık görünmesine yol açan hata düzeltildi."
+  "kod": 23,
+  "ad": "2.2",
+  "enAz": 23,
+  "not": "Yeni: sağ üstte \"Bağlı\" yazısının solunda \"Stil\" düğmesi var. Stil 1 ilk hali, Stil 2 koyu zeminli \"Gece\" görünümü; istediğini seç. Gönderimi durdururken tam o anda yazan kişinin cevabı artık kaçmıyor, hazır cevap ona da gider. Cevaplar'da \"Nereye gitsin\" için üçüncü seçenek geldi: \"İkisi birden\" (hem özelden hem grupta). Ortak grup botunun bütün ayarları artık gruptan komutla yapılır (örnek: /sıra 3 Tepe Transfer); hepsi için gruba /yardım yaz."
 }
