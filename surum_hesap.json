@@ -1,6 +1,6 @@
 {
-  "kod": 11,
-  "ad": "11",
-  "enAz": 11,
-  "not": "Kutu artık ön kameranın altından başlar ve sağ kenardan boşluk bırakır: yazılar ve − düğmesi rahat görünür."
+  "kod": 12,
+  "ad": "12",
+  "enAz": 12,
+  "not": "Kutunun kenar boşlukları azaldı: sağdan 5'te 1'i, üstten 4'te 1'i kaldı. Ön kamera ilk rakamın üstüne gelecek olursa kutu sadece o kadar aşağı iner."
 }

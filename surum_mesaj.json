@@ -1,6 +1,6 @@
 {
-  "kod": 18,
-  "ad": "1.8",
-  "enAz": 18,
-  "not": "Uygulama açıldıktan sonraki ilk tur da hızlandı. Beklemeler her seferinde biraz değişir; WhatsApp \"çok hızlı\" uyarısı verirse gönderim kendiliğinden durur. Zorunlu güncelleme artık süren gönderimi kesmez. Bağlantı sekmesinin altında ve ☰ menüde \"Diğer uygulamalarımız\"."
+  "kod": 19,
+  "ad": "1.9",
+  "enAz": 19,
+  "not": "Bazı grup botları işine cevap verirken mesajını alıntılamıyor; seni gizlice etiketliyor ya da numaranı yazıyor. Artık bu cevaplar da Cevaplar'da görünür (\"📢 senden bahsetti\"). Bunlara otomatik cevap gitmez, istersen karttan gönderirsin."
 }
