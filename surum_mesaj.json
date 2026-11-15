@@ -1,6 +1,6 @@
 {
-  "kod": 24,
-  "ad": "2.3",
-  "enAz": 24,
-  "not": "Ortak grup botu, sonradan girdiğin grupları artık kendisi buluyor: /ekle ya da /sıra yazınca grubu bulamazsa grup listesini WhatsApp'tan yenileyip yeniden dener. Listeyi elle yenilemek için yeni komut: /yenile. Grup adını boşluklu ya da bitişik yazman fark etmez; yine bulamazsa benzer adlı grupları önerir."
+  "kod": 25,
+  "ad": "2.4",
+  "enAz": 25,
+  "not": "İnternet kopup gelince bot artık dakikalarca kilitlenmesin diye: birikmiş mesajlar çok daha hızlı alınır, internet gelince beklemeden bağlanır. Bağlantı koptuğunda ya da birikmiş mesajlar alınırken ekranın ortasında bilgi penceresi çıkar, üstte \"Yükleniyor %\" yazar. Bot cevap veremediği sırada yazılan işleri, toparlanınca komut grubuna tek mesajla bildirir."
 }
