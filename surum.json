@@ -1,6 +1,6 @@
 {
-  "kod": 32,
-  "ad": "2.8",
-  "enAz": 32,
-  "not": "\"Diğer uygulamalarımız\" ekranında, telefonda kurulu ama eski kalmış uygulamanın düğmesinde artık \"Güncelle\" yazar."
+  "kod": 33,
+  "ad": "2.9",
+  "enAz": 33,
+  "not": "Yeni \"Uygulamalar\" bölümü: BiTaksi, Uber, Yandex Pro ve BinBin için ayrı ayrı Kapalı / Açma / Tıklama / İkisi de seçilir. Artık Uber, Yandex ve BinBin çağrılarına da tıklar ve bilgisini sağ üstte gösterir (onaysız hesapta sadece gösterir). Yeni ayarlar: yolcu uzaktaysa tıklamama (Alış en fazla), iş alınca diğer uygulamaları meşgule alma, Uber / Yandex / BinBin işlerinde de kamera kaydı. Uber ve Yandex çağrılarına tıklama kapalı gelir; Uygulamalar bölümünden açılır."
 }
