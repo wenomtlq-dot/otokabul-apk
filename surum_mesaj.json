@@ -1,6 +1,6 @@
 {
-  "kod": 25,
-  "ad": "2.4",
-  "enAz": 25,
-  "not": "İnternet kopup gelince bot artık dakikalarca kilitlenmesin diye: birikmiş mesajlar çok daha hızlı alınır, internet gelince beklemeden bağlanır. Bağlantı koptuğunda ya da birikmiş mesajlar alınırken ekranın ortasında bilgi penceresi çıkar, üstte \"Yükleniyor %\" yazar. Bot cevap veremediği sırada yazılan işleri, toparlanınca komut grubuna tek mesajla bildirir."
+  "kod": 28,
+  "ad": "2.7",
+  "enAz": 28,
+  "not": "Mesaj kutularını 📌 ile sabitleyebilirsin (gönderince boşalmaz); istersen hepsi tek mesajda, boşluklu ya da boşluksuz gider. Toplu mesaja ve yöneticiyle yazışmaya resim eklenebilir. Grup botunda açık / kapalı bir bakışta belli, komut grubu seçmeden açılmaz. Birikmiş mesajlar alınırken pencere yanlışlıkla kapanmaz, üstteki yazıya basınca geri gelir; yarıda kalırsa kaldığı yerden sürer."
 }
