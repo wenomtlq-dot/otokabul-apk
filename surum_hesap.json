@@ -1,6 +1,6 @@
 {
-  "kod": 14,
-  "ad": "14",
-  "enAz": 14,
-  "not": "\"Diğer uygulamalarımız\" ekranında, telefonda kurulu ama eski kalmış uygulamanın düğmesinde artık \"Güncelle\" yazar."
+  "kod": 15,
+  "ad": "15",
+  "enAz": 15,
+  "not": "Kutu yine sağ üst köşeye bitişik ve küçük. Küçültme için artık kutunun sol kenarındaki ince şeride dokunulur; sağ kenarda kalan kulakçığa dokununca kutu geri gelir. Şeride dokunmak altındaki TAG düğmelerine geçmez. Her satırda süre en az 1 dk, mesafe en az 1 km sayılır (ör. \"2 dk (1 m)\" → 2 dk, 1 km)."
 }
