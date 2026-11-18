@@ -1,6 +1,6 @@
 {
-  "kod": 28,
-  "ad": "2.7",
-  "enAz": 28,
-  "not": "Mesaj kutularını 📌 ile sabitleyebilirsin (gönderince boşalmaz); istersen hepsi tek mesajda, boşluklu ya da boşluksuz gider. Toplu mesaja ve yöneticiyle yazışmaya resim eklenebilir. Grup botunda açık / kapalı bir bakışta belli, komut grubu seçmeden açılmaz. Birikmiş mesajlar alınırken pencere yanlışlıkla kapanmaz, üstteki yazıya basınca geri gelir; yarıda kalırsa kaldığı yerden sürer."
+  "kod": 36,
+  "ad": "3.5",
+  "enAz": 36,
+  "not": "Mesaj kutularında yazı biçimi: kalın, eğik, üstü çizili, tek aralıklı yazı, alıntı, madde ve sıralı liste. Üstteki düğmeye basınca o biçim açık kalır; ya da yazının bir kısmını seçip üstte çıkan menüden biçim verirsin. Boş satırlar mesajda aynen gider. Alıcılar'da WhatsApp gibi arama var. Telefon uygulamayı arka planda kapatırsa kendini yeniden açar, neden kapandığı Son yapılanlar'a yazılır."
 }
