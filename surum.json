@@ -1,6 +1,6 @@
 {
-  "kod": 34,
-  "ad": "3.0",
-  "enAz": 34,
-  "not": "Yeni görünüm: uygulama artık koyu \"Stil 2\" ile açılır; üstteki Stil düğmesinden istersen eski açık görünüme (Stil 1) dönersin. BinBin'de yolculuk bitince ya da iptal olunca bilgi kutusu artık kalkıyor; BinBin'in yolculuk ve ödeme ekranları tanınıyor. İş bitişi Uber ve Yandex'te de ekrandan okunuyor."
+  "kod": 38,
+  "ad": "3.4",
+  "enAz": 38,
+  "not": "Çağrılar artık daha hızlı yakalanıyor. Aç/Kapat düğmesi \"Açılıyor…\" / \"Kapanıyor…\" diye gösteriyor, istersen yarıda durdurabiliyorsun. Hesap kilitliyken \"Yöneticiye yaz\" düğmesi var. BiTaksi'nin yeni çağrı ekranı tanınıyor: \"Kabul et\" düğmesindeki rakam bonus dahil toplam kazanç olarak yazılıyor. Uber'de aynı anda iki çağrı gelince: tıklayıcı açıksa üstteki çağrıya tıklar, kapalıysa ikisini ayrı kutuda (1/2, 2/2) gösterir. Yandex'te yolculuk bitince bilgi kutusu kalkıyor."
 }
