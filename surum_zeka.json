@@ -1,6 +1,6 @@
 {
-  "kod": 4,
-  "ad": "1.3",
+  "kod": 5,
+  "ad": "1.4",
   "enAz": 0,
-  "not": "Termux yardımcısı: ne yapmak istediğini söyle, komutu yazsın; ▶ Çalıştır ile Termux'ta çalışır, sonucu okuyup anlatır (+ > Termux komutları). Bağlantı bir anlık koparsa soru kendiliğinden yeniden denenir. Güncelleme izni verilince yeni sürüm kendiliğinden kurulur."
+  "not": "Termux yardımcısı artık daha akıllı: sohbette Termux'tan bahsedince kendiliğinden Termux moduna geçer; bash komutlarının yanında ▶ Çalıştır düğmesi çıkar, basınca komut Termux'ta çalışır ve sonucu anlatılır. Bağlantı bir anlık koparsa soru kendiliğinden yeniden denenir."
 }
