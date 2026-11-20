@@ -1,6 +1,6 @@
 {
-  "kod": 8,
-  "ad": "8",
-  "enAz": 8,
-  "not": "\"Diğer uygulamalarımız\" ekranında, telefonda kurulu ama eski kalmış uygulamanın düğmesinde artık \"Güncelle\" yazar."
+  "kod": 10,
+  "ad": "10",
+  "enAz": 10,
+  "not": "Silinecekler yenilendi: her fotoğrafın altında günü (Bugün, Dün, Çarşamba…) ve saati yazar, renkli çizgi silinmesine ne kadar kaldığını gösterir. Fotoğrafa basınca büyük açılır; sağa sola kaydırarak geçersin, iki parmakla büyütürsün, aşağı çekince kapanır. Soru artık fotoğraf çekilir çekilmez gelir. Ayarlar'da yeni seçim: soru üstten bildirim olarak ya da ekranın ortasında kart olarak gelsin."
 }
