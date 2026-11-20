@@ -1,6 +1,6 @@
 {
-  "kod": 5,
-  "ad": "1.4",
+  "kod": 6,
+  "ad": "1.5",
   "enAz": 0,
-  "not": "Termux yardımcısı artık daha akıllı: sohbette Termux'tan bahsedince kendiliğinden Termux moduna geçer; bash komutlarının yanında ▶ Çalıştır düğmesi çıkar, basınca komut Termux'ta çalışır ve sonucu anlatılır. Bağlantı bir anlık koparsa soru kendiliğinden yeniden denenir."
+  "not": "Yapay zeka artık hangi model olduğunu biliyor; sorunca kendi adını söyler. Claude sınıra takılır ya da çok yoğun olursa önce bir alt Claude modeli (Opus, sonra Sonnet) cevap verir; Gemini'ye sadece Claude kredin biterse geçer."
 }
