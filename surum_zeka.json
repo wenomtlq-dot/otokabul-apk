@@ -1,6 +1,6 @@
 {
-  "kod": 2,
-  "ad": "1.1",
+  "kod": 3,
+  "ad": "1.2",
   "enAz": 0,
-  "not": "Hafıza: sohbetlerden seni tanır (Ayarlar > Hafıza). Otomatik geçiş: seçili yapay zeka cevap veremezse hazır olan diğerine sorar. İnternetsiz yapay zeka: telefona bir kez indirilir (2,6 GB), internet olmadan cevap verir. Uygulama artık kendini güncelliyor."
+  "not": "Termux yardımcısı: ne yapmak istediğini söyle, komutu yazsın; ▶ Çalıştır ile Termux'ta çalışır, sonucu okuyup ne olduğunu anlatır. Başlatmak için: + > Termux komutları. İlk seferde Termux'a bir kez izin verilir (adımları uygulama gösterir)."
 }
