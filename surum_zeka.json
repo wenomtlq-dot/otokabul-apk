@@ -1,6 +1,6 @@
 {
-  "kod": 3,
-  "ad": "1.2",
+  "kod": 4,
+  "ad": "1.3",
   "enAz": 0,
-  "not": "Termux yardımcısı: ne yapmak istediğini söyle, komutu yazsın; ▶ Çalıştır ile Termux'ta çalışır, sonucu okuyup ne olduğunu anlatır. Başlatmak için: + > Termux komutları. İlk seferde Termux'a bir kez izin verilir (adımları uygulama gösterir)."
+  "not": "Termux yardımcısı: ne yapmak istediğini söyle, komutu yazsın; ▶ Çalıştır ile Termux'ta çalışır, sonucu okuyup anlatır (+ > Termux komutları). Bağlantı bir anlık koparsa soru kendiliğinden yeniden denenir. Güncelleme izni verilince yeni sürüm kendiliğinden kurulur."
 }
