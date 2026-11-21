@@ -1,6 +1,6 @@
 {
-  "kod": 38,
-  "ad": "3.4",
-  "enAz": 38,
-  "not": "Çağrılar artık daha hızlı yakalanıyor. Aç/Kapat düğmesi \"Açılıyor…\" / \"Kapanıyor…\" diye gösteriyor, istersen yarıda durdurabiliyorsun. Hesap kilitliyken \"Yöneticiye yaz\" düğmesi var. BiTaksi'nin yeni çağrı ekranı tanınıyor: \"Kabul et\" düğmesindeki rakam bonus dahil toplam kazanç olarak yazılıyor. Uber'de aynı anda iki çağrı gelince: tıklayıcı açıksa üstteki çağrıya tıklar, kapalıysa ikisini ayrı kutuda (1/2, 2/2) gösterir. Yandex'te yolculuk bitince bilgi kutusu kalkıyor."
+  "kod": 46,
+  "ad": "4.2",
+  "enAz": 46,
+  "not": "Uygulamaları açarken daha sabırlı: yavaş açılan uygulamayı bekler, kapatıp açmaz; olmayanı en sonda bir kez daha dener. Uyarı kartında neden olmadığı yazar ve \"Tekrar dene\" düğmesi var. Başka uygulamaların balonları artık açmayı ve kabul sonrası kontrolü şaşırtmaz. BinBin'in yeni çağrı ekranı tanınır; BinBin'in ana ekranı görünmezse uyarı verir. Akşam 21:00 ile sabah 06:00 arası çağrıya daha hızlı basar. Çağrı başka sürücüye giderse 3-4 saniyede anlar, diğer uygulamalara dokunmaz. Yandex'te yıldız ekranı da yolculuk bitti sayılır."
 }
