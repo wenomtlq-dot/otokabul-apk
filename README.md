@@ -5,3 +5,4 @@ Uygulamalar, yeni sürüm olup olmadığına buradan bakar ve kendi içinden gü
 
 - Oto Kabul: OtoKabul.apk, surum.json
 - Oto Mesaj: OtoMesaj.apk, surum_mesaj.json
+- Oto Asistan: OtoAsistan.apk, surum_asistan.json

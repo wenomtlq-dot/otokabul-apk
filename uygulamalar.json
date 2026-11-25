@@ -9,6 +9,15 @@
     "aciklama": "İş mesajını WhatsApp gruplarına ve kişilere senin yerine gönderir. Gelen cevapları tek yerde toplar, istersen otomatik cevap verir."
   },
   {
+    "ad": "Oto Asistan",
+    "paket": "com.otoasistan",
+    "emoji": "🤝",
+    "renk": "#0E7A5A",
+    "apk": "https://raw.githubusercontent.com/wenomtlq-dot/otokabul-apk/main/OtoAsistan.apk",
+    "surum": "surum_asistan.json",
+    "aciklama": "WhatsApp'ta müşterilere senin yerine cevap verir: fiyat söyler, işi şoföre verir, şoförle müşteri arasını yürütür. Nasıl konuşacağını uygulamadan ona sen öğretirsin."
+  },
+  {
     "ad": "Oto Kabul",
     "paket": "com.otokabul",
     "emoji": "✅",
