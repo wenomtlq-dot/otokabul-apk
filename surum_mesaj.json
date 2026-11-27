@@ -1,6 +1,6 @@
 {
-  "kod": 45,
-  "ad": "4.4",
-  "enAz": 45,
-  "not": "İnternet kopunca yarıda kalan gönderim, bağlantı gelince kendiliğinden kaldığı yerden sürer; devam ederken aynı mesaj iki kez gitmez. WhatsApp bağlantıyı kaldırırsa ya da numarayı kısıtlarsa ekranın ortasında uyarı ve bildirim gelir. Mesajlar arası bekleme 1 saniyeden başlar, 99 saniyeye kadar birer birer ayarlanır; \"Kaçar kaçar gitsin\" 4 ya da 5 seçilince uyarı çıkar. Grup eklerken liste en yoğun gruptan en sakine dizilir. Kod beklenirken \"bağlanılıyor\" penceresi açılmaz. Gönderim sırasında son gittiği grup yazar. Mesaj kutularına emoji eklenebilir. Yeni \"İş ver\" sekmesi: iş bilgilerini mesaja aktarır, PAS yazana işi kendiliğinden verir."
+  "kod": 54,
+  "ad": "5.3",
+  "enAz": 54,
+  "not": "Güvenli gönderim: son 1 saatte çok iş atılınca hız kendiliğinden biraz düşer; WhatsApp uyarı verirse hesabın kısıtlanmasın diye 30 dakika mola verilir. Hangi hızda gittiği \"Şimdi gönder\"in üstünde ve Ayarlar'da görünür. Çıktığın ya da çıkarıldığın gruplar ve sadece yöneticilerin yazabildiği gruplar alıcı listelerinden kendiliğinden çıkar; bu gruplar seçilemez. \"Şu cevapları atla\"da birden fazla cevap seçilebilir. Arka planda pil yeme düzeltildi. Güncelleme ortada aşamalarıyla görünür. Yazışmada klavye düzeltildi. Uygulama daha güvenli hale getirildi."
 }
