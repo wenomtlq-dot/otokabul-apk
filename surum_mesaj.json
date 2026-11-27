@@ -1,6 +1,6 @@
 {
-  "kod": 54,
-  "ad": "5.3",
-  "enAz": 54,
-  "not": "Güvenli gönderim: son 1 saatte çok iş atılınca hız kendiliğinden biraz düşer; WhatsApp uyarı verirse hesabın kısıtlanmasın diye 30 dakika mola verilir. Hangi hızda gittiği \"Şimdi gönder\"in üstünde ve Ayarlar'da görünür. Çıktığın ya da çıkarıldığın gruplar ve sadece yöneticilerin yazabildiği gruplar alıcı listelerinden kendiliğinden çıkar; bu gruplar seçilemez. \"Şu cevapları atla\"da birden fazla cevap seçilebilir. Arka planda pil yeme düzeltildi. Güncelleme ortada aşamalarıyla görünür. Yazışmada klavye düzeltildi. Uygulama daha güvenli hale getirildi."
+  "kod": 55,
+  "ad": "5.4",
+  "enAz": 55,
+  "not": "Kayıt olurken WhatsApp numarası istenir; Bağlantı'da numara kendiliğinden yazılı gelir. Bir telefonda tek hesap açılır. Güvenli gönderim: son 1 saatte çok iş atılınca hız kendiliğinden biraz düşer; WhatsApp uyarı verirse hesabın kısıtlanmasın diye 30 dakika mola verilir. Çıktığın ya da çıkarıldığın gruplar ve sadece yöneticilerin yazabildiği gruplar alıcı listelerinden kendiliğinden çıkar. \"Şu cevapları atla\"da birden fazla cevap seçilebilir. Arka planda pil yeme düzeltildi."
 }
