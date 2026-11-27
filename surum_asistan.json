@@ -1,6 +1,6 @@
 {
-  "kod": 1,
-  "ad": "1.0",
-  "enAz": 1,
-  "not": "İlk sürüm: asistan artık uygulamanın içinde çalışıyor. Ayarların hepsi, sohbetler, işler, Öğret (asistana kural öğretme, mesajdan öğretme, deneme sohbeti), son yapılanlar ve komut kutusu uygulamada. Konuşma anahtarı herhangi bir firmanın olabilir; ses anahtarı isteğe bağlı."
+  "kod": 3,
+  "ad": "1.2",
+  "enAz": 3,
+  "not": "1.2: Giriş ve onay.\n• Uygulama kullanıcı adı ve şifreyle açılır. Oto Mesaj / Oto Kabul hesabınızla girebilir ya da yeni kayıt olabilirsiniz.\n• Yönetici onayı ve verilen süre olmadan asistan çalışmaz; onay gelince uygulama kendiliğinden açılır.\n• Hesap aynı anda tek telefonda açıktır. Onay ekranından ve Ayarlar > Hesap'tan yöneticiye yazabilirsiniz.\nBu sürümde ayrıca:\n• Bildirimler: asistanın sana yazdıkları uygulamada; Cevap yaz (o kişiye aynen gider), işi kapat, komisyonu sormaya devam.\n• Kara liste kayıtları: her numaranın bütün bildirimleri (kim, hangi grup, ne zaman, yazının tamamı), WhatsApp gibi arama.\n• İşler: zaman çizelgesi (açıldı, isteyenler, verildi, teyit, komisyon, itiraz) ve Yeni iş formu (15 saniye önizleme).\n• Ayarlar: hat sahibinin adları, yok sayılanlar, grup linkleri, fiyatlar (elle düzeltme), düşünme ayarı, açık işlerin hepsini kapat.\n• Sohbetler: Asistan Bilgi en üstte, ortak grubu olan kişi Şoför; Öğret'te örnek konuşmalar.\n• Konuşma: kimseye abi / kardeşim denmez, herkese siz; ortak grubu olan kişi müşteri sayılmaz.\n• Gruplar: ilanlar tek tek, arayla atılır ve sonradan düzenlenmez; kapanan ya da eski ilanı isteyene “Gitti”. Şoför teyidi 2 soru, komisyon 3 saatte bir sorulur."
 }
