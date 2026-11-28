@@ -1,6 +1,6 @@
 {
-  "kod": 55,
-  "ad": "5.4",
-  "enAz": 55,
-  "not": "Kayıt olurken WhatsApp numarası istenir; Bağlantı'da numara kendiliğinden yazılı gelir. Bir telefonda tek hesap açılır. Güvenli gönderim: son 1 saatte çok iş atılınca hız kendiliğinden biraz düşer; WhatsApp uyarı verirse hesabın kısıtlanmasın diye 30 dakika mola verilir. Çıktığın ya da çıkarıldığın gruplar ve sadece yöneticilerin yazabildiği gruplar alıcı listelerinden kendiliğinden çıkar. \"Şu cevapları atla\"da birden fazla cevap seçilebilir. Arka planda pil yeme düzeltildi."
+  "kod": 56,
+  "ad": "5.5",
+  "enAz": 56,
+  "not": "Ayarlar'da \"Kaçar kaçar\"ın altında, güvenli gönderim hızı düşürdüyse şu an aynı anda kaç alıcıya gideceği yazar. Kayıtta WhatsApp numarası, bir telefonda tek hesap, güvenli gönderim ve listelerden kendiliğinden çıkan gruplar önceki sürümdeki gibi sürer."
 }

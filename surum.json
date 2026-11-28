@@ -1,6 +1,6 @@
 {
-  "kod": 46,
-  "ad": "4.2",
-  "enAz": 46,
-  "not": "Uygulamaları açarken daha sabırlı: yavaş açılan uygulamayı bekler, kapatıp açmaz; olmayanı en sonda bir kez daha dener. Uyarı kartında neden olmadığı yazar ve \"Tekrar dene\" düğmesi var. Başka uygulamaların balonları artık açmayı ve kabul sonrası kontrolü şaşırtmaz. BinBin'in yeni çağrı ekranı tanınır; BinBin'in ana ekranı görünmezse uyarı verir. Akşam 21:00 ile sabah 06:00 arası çağrıya daha hızlı basar. Çağrı başka sürücüye giderse 3-4 saniyede anlar, diğer uygulamalara dokunmaz. Yandex'te yıldız ekranı da yolculuk bitti sayılır."
+  "kod": 53,
+  "ad": "4.9",
+  "enAz": 53,
+  "not": "Çağrıyı kabul edince diğer uygulamalar hemen değil, sen konumu açıp yola çıkınca meşgule alınır. Yolculuk başlamadan bir uygulamayı sen kapatırsan Oto Kabul bunu görür, ona dokunmaz; unutursan kendisi kapatır. Gece 23:00 ile sabah 06:00 arası çağrıya daha da hızlı basar. Her gün seçtiğin saatte telefonu kendiliğinden yeniden başlatabilir (yolcu varken bekler, 10 saniye geri sayım). Güncelleme penceresinde aşamalar ve dolan çubuk görünür. Aynı anda gelen iki çağrı alt alta gösterilir, kutu hep yeni gelen çağrıyı gösterir. Üyeler ekranı yenilendi."
 }
